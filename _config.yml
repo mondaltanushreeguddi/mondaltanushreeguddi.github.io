@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Sushanta Ghosh"
 title_separator          : "|"
 name                     : &name "Sushanta Ghosh"
-description              : &description "Planetary Geophysics"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Planetary Geophysics & Instrumentation"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sgwin98.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "SGWIN98/sgwin98.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "sushanta Ghosh"
+  name             : "Sushanta Ghosh"
   pronouns         : # example: "she/her"  
   bio              : "Planetary Geophysics & Instrumentation"
   location         : "Roorkee, India, Earth"
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=s9d2tXkAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-5975-0227"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Sushanta-Ghosh-4"
   scopus           : # URL
   zotero           : # URL
 
@@ -51,22 +51,22 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "SGWIN98"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : "SGWIN98"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "oii_sushant"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sushanta-ghosh"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
