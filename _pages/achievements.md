@@ -4,6 +4,6 @@ title: ""
 author_profile: true
 redirect_from: 
   - /achievements/
-  - /achievement.html
+  - /achievements.html
 ---
 Test
