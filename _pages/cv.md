@@ -30,4 +30,4 @@ Education
 * MSc (Tech) in Applied Geophysics, IIT (ISM) Dhanbad, 2025
 * BSc (Hons) in Physics, University of Burdwan, 2022
 * 12th (Science), Sargacchi Ramakrishna Mission High School (HS), 2016
-* 10th, Dadpur High School, 2014
+* 10th, Dadpur High School (HS), 2014
