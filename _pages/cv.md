@@ -54,6 +54,7 @@ redirect_from:
 **Supervisors:** Dr. Smritikana Biswas and Dr. Ramjyoti Ganguly 
 
 Education: 
+
 MSc in Human Physiology, University of Gour Banga, 2021
 
 BSc (Hons) in  Human Physiology, University of  Kalyani, 2019
