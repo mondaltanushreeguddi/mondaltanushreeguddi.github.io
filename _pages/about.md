@@ -6,16 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there,
-
-I am a Geophysicist interested in planetary sciences, geophysical exploration, and data-driven approaches to understanding Earth and planetary systems.
-
-Growing up in a village in India, I spent much of my childhood playing cricket and looking at the night sky. Those experiences sparked a curiosity about the natural world that eventually led me to study Physics and Geophysics.
-
-Today, I am particularly interested in planetary interiors, seismic and other exploration methods, and the application of machine learning to geosciences. I believe that science advances through careful observation, critical thinking, and collaboration.
-
-Thank you for visiting. If our interests overlap, I would be happy to connect and discuss research, ideas, or potential collaborations.
-
-With best wishes,
-
-Sushanta
+Hello,
+I am a researcher in Cancer Biology with interests in understanding the molecular mechanisms underlying cancer progression, drug resistance, and therapeutic response.
+Currently, I am working as a Project Associate at Bose Institute, Kolkata, where my research focuses on the role of inflammasomes in chemoresistant prostate cancer cells. In addition to my primary project, I am involved in research on targeted drug delivery systems for breast cancer therapy. My broader research interests include cancer cell signaling, apoptosis, oxidative stress, inflammation, drug resistance, and translational cancer research.
+I am particularly fascinated by how molecular and cellular mechanisms contribute to treatment failure and how innovative therapeutic strategies can improve patient outcomes. I believe that scientific progress is driven by curiosity, rigorous experimentation, critical thinking, and collaborative efforts.
+My long-term goal is to contribute to the development of effective cancer therapies through impactful research and interdisciplinary collaboration. I am always eager to connect with researchers, students, and professionals who share an interest in cancer biology and biomedical sciences.
+Thank you for visiting. 
+Best Wishes, 
+Tanushree
